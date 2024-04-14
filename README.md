@@ -1,5 +1,6 @@
 # Just A Friendly Reminder
-# Test Cases General Information
+
+## Test Cases General Information
 - There are four users: Jackie, Marco, Star and Tom.
 - Each of them have their own folder with unique name
   which contains the tasks.md and meetings.md each.
